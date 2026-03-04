@@ -1,2 +1,4 @@
 # Who I am?
-SQL explorer, Python enthusiast, and curious problem-solver. Welcome to my digital playground! Here, you'll find an assortment of SQL and Python projects that reflect my love for trying new things, exploring data, and unleashing my creative coding skills. While I'm not a coding pro just yet, I have an insatiable appetite for learning and continuously strive to improve. Join me on this journey of growth, where we embrace the joy of learning and unravel the endless possibilities of technology😊!
+Hi, I’m Angie.
+Solutions Engineer with a business analytics background—Looker/semantic modeling, SQL/BigQuery-style analytics, and practical LLM integrations (tools/MCP).
+This GitHub is my playground: small demos, notes, and experiments I actually run and maintain.
